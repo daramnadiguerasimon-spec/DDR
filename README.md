@@ -1,0 +1,2 @@
+application de dimensionnement des canaux et des ouvrages d'évacuation des eaux pluviales (calculs hydrauliques, tracé de profils, export de fiches de calcul) réalisable en 2 semaines.
+Puisque l'un des livrables attendus est un « code source et exécutable ou lien de déploiement », la technologie la plus rapide, puissante et facile à déployer depuis GitHub pour ce type d'outil scientifique est Python avec le framework Streamlit.
